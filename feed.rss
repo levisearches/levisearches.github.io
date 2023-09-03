@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Levi Searches</title><link>http://levisearches.xyz//index.html</link>
+<description>A blog about anything that comes to my mind.</description><language>en</language>
+<lastBuildDate>Sun, 03 Sep 2023 13:11:05 -0300</lastBuildDate>
+<pubDate>Sun, 03 Sep 2023 13:11:05 -0300</pubDate>
+<atom:link href="http://levisearches.xyz//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Hello, there!
+</title><description><![CDATA[
+
+<p>Hello, my name is Levi. I decided to create this website because I like to write and I would like to share my writings with you. If you like it, consider making a little donation.</p>
+
+<p>My bitcoin lightning wallet: <a href="https://getalby.com/p/levisearches">levisearches@getalby.com</a></p>
+
+<p>Tags: <a href='tag_warning.html'>warning</a></p>
+<!-- text end -->
+]]></description><link>http://levisearches.xyz//hello-there.html</link>
+<guid>http://levisearches.xyz//./hello-there.html</guid>
+<dc:creator>Levi Searches</dc:creator>
+<pubDate>Sun, 03 Sep 2023 13:10:52 -0300</pubDate></item>
+</channel></rss>
