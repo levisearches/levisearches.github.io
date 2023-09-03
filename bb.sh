@@ -34,7 +34,7 @@ global_variables() {
     global_email="levisearches@proton.me"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC by-nc-nd"
+    # global_license="CC by-nc-nd"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics
@@ -64,7 +64,7 @@ global_variables() {
     # Blog generated files
     # index page of blog (it is usually good to use "index.html" here)
     index_file="index.html"
-    number_of_index_articles="8"
+    number_of_index_articles="7"
     # global archive
     archive_index="all_posts.html"
     tags_index="all_tags.html"
@@ -968,7 +968,7 @@ create_includes() {
         protected_mail=${global_email//@/&#64;}
         protected_mail=${protected_mail//./&#46;}
         echo "<div id=\"footer\">$global_license <a href=\"$global_author_url\">$global_author</a> &mdash; <a href=\"mailto:$protected_mail\">$protected_mail</a><br/>"
-        echo 'Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a>, a single bash script to easily create blogs like this one</div>'
+	echo 'Consider making a <a href="https://getalby.com/p/levisearches">donation :)</a></div>'
         } >> ".footer.html"
     fi
 }
