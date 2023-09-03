@@ -80,7 +80,7 @@ global_variables() {
     # i.e. include only up to first '<hr>', or '----' in markdown
     cut_do="cut"
     # When cutting, cut also tags? If "no", tags will appear in index page for cut articles
-    cut_tags="yes"
+    cut_tags="no"
     # Regexp matching the HTML line where to do the cut
     # note that slash is regexp separator so you need to prepend it with backslash
     cut_line='<hr ?\/?>'
