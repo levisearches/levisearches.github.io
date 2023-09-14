@@ -2,9 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Levi Searches</title><link>https://levisearches.github.io//index.html</link>
 <description>A blog about anything that comes to my mind.</description><language>en</language>
-<lastBuildDate>Sun, 10 Sep 2023 11:14:28 -0300</lastBuildDate>
-<pubDate>Sun, 10 Sep 2023 11:14:28 -0300</pubDate>
+<lastBuildDate>Thu, 14 Sep 2023 15:05:20 -0300</lastBuildDate>
+<pubDate>Thu, 14 Sep 2023 15:05:20 -0300</pubDate>
 <atom:link href="https://levisearches.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+#M01: Expanding the concept of Rules for Life
+</title><description><![CDATA[
+
+<p>Our initial reaction to any rule is to reject it, since we have free will, even if it is good for us. We tend to think that rules restrict and oppress us when, in fact, the opposite is true. Without rules, we quickly become slaves to our passions; without rules that give us clear guidance on what to do or not, we end up declining more and more. Therefore, rules are not restrictive but liberating.</p>
+<p>If we take all possible models of life from Greek literature, we will see that there is a limit that cannot be exceeded.</p>
+<p>Poetic meter serves the same purpose. It restricts the number of syllables and verses a poet can create. This restriction does not diminish or oppress but provides the freedom for the author to create art. 'The sonnet is a prison without bars,' Vinícius de Moraes.</p>
+<p>Outside of the possible types and meter is where anomalies arise. Only artists with great mastery of the art can venture outside the line, outside the type, outside the meter, without losing themselves.</p>
+
+<p>If you liked this content, consider supporting me (lightning network): <a href="https://getalby.com/p/levisearches">levisearches@getalby.com</a></p>
+
+<p>Tags: <a href='tag_texts.html'>texts</a>, <a href='tag_meditations.html'>meditations</a></p>
+<!-- text end -->
+]]></description><link>https://levisearches.github.io//m01-expanding-the-concept-of-rules-for-life.html</link>
+<guid>https://levisearches.github.io//./m01-expanding-the-concept-of-rules-for-life.html</guid>
+<dc:creator>Levi Searches</dc:creator>
+<pubDate>Thu, 14 Sep 2023 15:04:42 -0300</pubDate></item>
 <item><title>
 Other places where you can read my texts
 </title><description><![CDATA[
@@ -25,6 +42,22 @@ Other places where you can read my texts
 <dc:creator>Levi Searches</dc:creator>
 <pubDate>Sun, 10 Sep 2023 11:14:24 -0300</pubDate></item>
 <item><title>
+Hello, there!
+</title><description><![CDATA[
+
+<p>Hello, my name is Levi. I decided to create this website because I like to write and I would like to share my writings with you. If you like it, consider making a little donation.</p>
+
+<p>My bitcoin lightning wallet: <a href="https://getalby.com/p/levisearches">levisearches@getalby.com</a></p>
+
+<p>Thank you for being here!</p>
+
+<p>Tags: <a href='tag_warning.html'>warning</a></p>
+<!-- text end -->
+]]></description><link>https://levisearches.github.io//hello-there.html</link>
+<guid>https://levisearches.github.io//./hello-there.html</guid>
+<dc:creator>Levi Searches</dc:creator>
+<pubDate>Sun, 10 Sep 2023 10:56:59 -0300</pubDate></item>
+<item><title>
 What ends is the world and the flesh
 </title><description><![CDATA[
 
@@ -42,22 +75,6 @@ What ends is the world and the flesh
 <p>Tags: <a href='tag_texts.html'>texts</a>, <a href='tag_meditations.html'>meditations</a></p>
 ]]></description><link>https://levisearches.github.io//what-ends-is-the-world-and-the-flesh.html</link>
 <guid>https://levisearches.github.io//./what-ends-is-the-world-and-the-flesh.html</guid>
-<dc:creator>Levi Searches</dc:creator>
-<pubDate>Sun, 10 Sep 2023 10:56:59 -0300</pubDate></item>
-<item><title>
-Hello, there!
-</title><description><![CDATA[
-
-<p>Hello, my name is Levi. I decided to create this website because I like to write and I would like to share my writings with you. If you like it, consider making a little donation.</p>
-
-<p>My bitcoin lightning wallet: <a href="https://getalby.com/p/levisearches">levisearches@getalby.com</a></p>
-
-<p>Thank you for being here!</p>
-
-<p>Tags: <a href='tag_warning.html'>warning</a></p>
-<!-- text end -->
-]]></description><link>https://levisearches.github.io//hello-there.html</link>
-<guid>https://levisearches.github.io//./hello-there.html</guid>
 <dc:creator>Levi Searches</dc:creator>
 <pubDate>Sun, 10 Sep 2023 10:56:59 -0300</pubDate></item>
 </channel></rss>
